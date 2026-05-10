@@ -35,11 +35,9 @@ The algorithm works by:
 
 ## How to Run the Program
 
-### Step 1: Clone the Repository
+## Step 1: Clone the Repository
 
-```bash
 git clone https://github.com/Sfatima11/MSCS532_Assignment1.git
-
 
 ## Step 2: Open the Project
 Open the project folder using Visual Studio Code.
@@ -47,21 +45,10 @@ Open the project folder using Visual Studio Code.
 ## Step 3: Run the Python File
 
 python insertion_sort.py
-Sample Output
-text
-Original Array:
-[12, 5, 8, 19, 1, 25, 7]
 
-Sorted Array in Decreasing Order:
-[25, 19, 12, 8, 7, 5, 1]
-Algorithm Features
-Uses insertion sort technique
+## Output 
+The program successfully displays both the original and sorted arrays after applying the insertion sort algorithm in monotonically decreasing order. The implementation uses the insertion sort technique to arrange values from highest to lowest. Additionally, the program is beginner-friendly, written in Python, and includes clear comments to improve readability and understanding of the code.
 
-Sorts values in descending order
-
-Beginner-friendly Python implementation
-
-Includes comments for readability
 
 
 
